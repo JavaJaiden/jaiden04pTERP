@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deployment Project</title>
+</head>
+<body>
+    <h1>Name: Jaiden Nguyen</h1>
+    
+    <p>
+        GitHub Location: <a href="https://github.com/JavaJaiden/jaiden04pTERP">https://github.com/JavaJaiden/jaiden04pTERP</a>
+    </p>
+    
+    <p>
+        Render Location: <a href="https://jaiden04pterp.onrender.com">https://jaiden04pterp.onrender.com</a>
+    </p>
+
+    <hr>
+
+    <h3>Database Operations</h3>
+    <ul>
+        <li><a href="https://jaiden04pterp.onrender.com/clearCollection">Clearing Database Movies</a></li>
+        <li><a href="https://jaiden04pterp.onrender.com/insertMovies">Inserting Movies</a></li>
+        <li><a href="https://jaiden04pterp.onrender.com/listMovies">List Movies</a></li>
+    </ul>
+</body>
+</html>
+

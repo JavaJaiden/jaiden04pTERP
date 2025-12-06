@@ -1,0 +1,5 @@
+node_modules/
+.env
+credentialsDontPost/
+.DS_Store
+
